@@ -6,3 +6,8 @@
   --corsecundaria: #E63E6D;
   --fonte: #"Kanit", sans-serif;
 }
+
+body
+{
+  background-color: var(--fundo);
+}
